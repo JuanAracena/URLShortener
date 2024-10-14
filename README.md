@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
          git clone https://github.com/JuanAracena/URLShortener.git
   2. Navigate to the project directory:
      ####
-         cd project
+         cd URLShortener
   3. Install pipenv:
      ####
          pip install pipenv
