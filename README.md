@@ -24,7 +24,7 @@ Before you begin, ensure you have the following software installed:
 
 ### Installation
 To set up the project locally, follow these steps:
-  1. Clone the repository
+  1. Clone the repository:
       ####
          git clone https://github.com/JuanAracena/URLShortener.git
   2. Navigate to the project directory:
@@ -33,7 +33,7 @@ To set up the project locally, follow these steps:
   3. Install pipenv:
      ####
          pip install pipenv
-  5. Create and start a virual environment
+  5. Create and start a virual environment:
      ####
          pipenv shell
   6. Install flask inside the virtual environment:
@@ -42,6 +42,6 @@ To set up the project locally, follow these steps:
   7. Set "urlshort" as the file flask is going to look for when executing the code:
      ####
          set FLASK_APP=urlshort
-  8. Run flask
+  8. Run flask:
      ####
          flask run
